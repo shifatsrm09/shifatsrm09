@@ -19,6 +19,8 @@
 
 <br>
 
+<div align="center">
+
 <!-- About Me Section -->
 ### 🔥 About Me
 I'm a passionate **Full-Stack Developer** and tech enthusiast who loves building creative and impactful projects. I enjoy coding, exploring new technologies, and sharing my knowledge with the community.  
@@ -26,14 +28,6 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast who loves building
 - 🌱 Currently learning **Next.js, Tailwind CSS, and AI integrations**  
 - 💻 Working on exciting projects around **Web Development and Automation**  
 - 🎨 Lover of clean and interactive UI designs  
-
----
-
-### 🚀 GitHub Stats
-![Shifat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShifatRahman&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShifatRahman&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShifatRahman&theme=radical)
 
 ---
 
@@ -63,3 +57,5 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast who loves building
 ---
 
 ✨ **Let's create something amazing together!**
+
+</div>
