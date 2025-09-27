@@ -14,25 +14,13 @@
   <!-- Tagline -->
   <h3 align="center">💻 Passionate Developer | 🚀 Tech Innovator | 🌟 Open Source Enthusiast</h3>
   
-  <!-- Animated GIF -->
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Animation">
+  <!-- Stunning Animated GIF -->
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500" alt="Cyberpunk Coding Animation">
   
 </div>
 
 <br>
 
-<!-- About Me Section -->
-<div align="center">
-  
-  ## 🧑‍💻 About Me
-  
-  <p align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="200">
-  </p>
-  
-# 👋 Hi there, I'm Shifat Rahman!  
-
-![Header GIF](https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif)
 
 ### 🔥 About Me
 I'm a passionate **Full-Stack Developer** and tech enthusiast who loves building creative and impactful projects. I enjoy coding, exploring new technologies, and sharing my knowledge with the community.  
@@ -64,13 +52,6 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast who loves building
 
 ---
 
-### 🌟 Featured Projects
-| Project | Description | GIF/Preview |
-|---------|-------------|-------------|
-| [QR Auth](https://github.com/shifatsrm09/qr-auth) | A full-stack QR-based authentication system | ![QR Auth GIF](https://media.giphy.com/media/3o7TKy0D7gWeZpAl5i/giphy.gif) |
-| [Router Reboot Automation](https://github.com/shifatsrm09/router-automation) | Automate router reboots and network monitoring | ![Automation GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif) |
-| [React Auth App](https://github.com/shifatsrm09/react-auth-app) | Modern login/signup system with React | ![Auth App GIF](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif) |
-
 ---
 
 ### 📫 Connect with Me
@@ -84,12 +65,4 @@ I'm a passionate **Full-Stack Developer** and tech enthusiast who loves building
 
 ---
 
-### 💬 Fun Corner
-> “Code is like humor. When you have to explain it, it’s bad.” 😎  
-
-![Typing GIF](https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif)
-
----
-
 ✨ **Let's create something amazing together!**
-
