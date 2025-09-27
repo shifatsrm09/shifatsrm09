@@ -4,9 +4,7 @@
   
   <!-- Main Title -->
   <h1 align="center">
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
     I'm Shifat Rahman
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   </h1>
   
   <!-- Tagline -->
@@ -24,41 +22,9 @@
 <!-- About Me Section -->
 <!-- About Me Section -->
 ### 🔥 About Me
-Hi, I'm **Shifat Rahman** – a passionate **Full-Stack Developer** who loves crafting clean, interactive, and impactful digital experiences.  
-
-> 🌱 Currently learning **Next.js**, **Tailwind CSS**, and **AI integrations**  
-> 💻 Working on exciting projects in **Web Development** and **Automation**  
-> 🎨 Lover of **beautiful UI/UX** and modern design patterns  
-
+I’m a Computer Science student at BRAC University, Bangladesh, passionate about programming and technology. I actively pursue self-learning in various programming languages and frameworks, and I enjoy building projects to sharpen my skills and apply my knowledge in practical ways.
 ---
 
-### 🛠 Skills
-<div align="center">
-
-**Languages & Frameworks**  
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-**Backend & Databases**  
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
-
-**Tools & Platforms**  
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-</div>
-
----
 
 ### 📫 Connect with Me
 <div align="center">
