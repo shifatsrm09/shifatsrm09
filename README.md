@@ -2,7 +2,7 @@
 <div align="center">
   
   <!-- Animated Welcome -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+my+GitHub+Profile!;Let's+build+amazing+things+together!✨" alt="Typing Animation" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hello+World!+👋;Welcome+to+my+GitHub+Profile!;Let's+build+amazing+things+together!✨](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2hyNXU2cXI3MGNhM2gyYXBhcjM1d2I3aThhNGljMzVubWgzeGh3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlTy9x8FZo0XO1i/giphy.gif)" alt="Typing Animation" />
   
   <!-- Main Title -->
   <h1 align="center">
